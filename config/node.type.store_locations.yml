@@ -1,0 +1,18 @@
+uuid: 3f65c725-2b27-4083-bae9-9743661f95ad
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Store Locations'
+type: store_locations
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
